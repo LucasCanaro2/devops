@@ -9,4 +9,4 @@
 
 ## Login Function
 - password rule
-- idea rule, idea rule2
+- idea rule, idea rule2, idea rule3
