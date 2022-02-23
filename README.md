@@ -6,3 +6,7 @@
 - git push
 - jenkins
 - back home
+
+## Login Function
+- password rule
+- idea rule
