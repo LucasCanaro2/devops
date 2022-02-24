@@ -10,6 +10,7 @@
 ## Login Function
 - password rule
 - idea rule, idea rule2, idea rule3
+- [한동준 강사](https://github.com/DongJoonHan/devops0223)
 
 
 ## black 설치 주의사항
